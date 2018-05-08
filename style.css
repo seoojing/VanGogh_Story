@@ -1,0 +1,106 @@
+#section2{width: 1200px;  margin: 2em; left-padding:3em; margin-bottom: 4em;}
+	.section2 img{ width: 100%; transition: 2s;}
+		.section2 img:hover{ width: 150%;}
+		
+
+	.wrap2{width:300px; height:360px;overflow: hidden; background:#071b15;float:left; margin: 3em;}
+		.wrap2 img:hover{width:120%;}
+	#title{font-size: 2em; height: 80px; color: white;}
+	#hello{color: white; font-size: 1em; height: 1.6em; margin:0; padding-top: 0.5em; padding-left: 0.5em;padding-right:0.5em;}
+	#pill{font-size: 0.8em; line-height: 1.7em; height:110px; margin:0; padding-left: 0.5em; padding-right:0.5em;}
+	.image2{height:200px; overflow: hidden;}
+
+		.image2 img{width: 100%;}
+
+		.clear{clear: both;}
+
+
+
+
+		h1,h2,h3,h6,p{ font-family: "source-han-serif-korean",serif; font-weight:400}
+		.wrap{ width:1764px; margin:auto; position:relative; background: #09251d;}
+		
+		.green{width:2500px;margin:auto; background: #09251d;}
+		#back1{ background: url('./img/1.jpg'); background-size:100% auto; height:781px;z-index: 1;}
+		#back2{  background-size:100% auto; height:1394px;z-index: 1;}
+		#back3{  background-size:100% auto; height:2904px;z-index: 1;}
+		#back4{  background-size:100% auto; height:3161px;z-index: 1;}
+		#back5{  background-size:100% auto; height:3872.5px;z-index: 1;}
+		#back6{  background-size:100% auto; height:4430.5px;z-index: 1;}
+		#back7{ background: url('./img/7.jpg'); background-size:100% auto; height:372.5px;z-index: 1;}
+		p{color:white;}
+		h3{color:white;z-index: 2;}
+		h6{ font-size:1.7em; position:relative; top:2800px; line-height: 1.7; color: white;}
+		body{background: #09251d; }
+		header p{ font-size:1.4em; position:relative; top:1080px; line-height: 1.7}
+		header h3{font-size:3em; position: relative; top:270px;left:260px; line-height: 1.58;  font-weight: bold; writing-mode:tb-rl;}
+
+		#seo {position: absolute; width: 100mm; top: 1430px; left: 770px;z-index: 2;}
+		#jae {position: absolute; width: 100mm; top: 1780px; left: 770px;z-index: 2;}
+		#hyoun {position: absolute; width: 100mm; top: 830px; left: 100px;z-index: 2;}
+		#yang {position: absolute; width:283mm; top: 805px; left: 65px;z-index: 2;}
+		#han {position: absolute; width:109mm; top: 1350px; left: 70px;z-index: 2;}
+		#byul {position: absolute; width:164mm; top: 1350px; left: 514px;z-index: 2;}
+		#kim {position: absolute; width:303mm; top: 1470px; left: 830px;z-index: 2;}
+		#su {position: absolute; width:317mm; top: 685px; left: 560px;z-index: 2;}
+		#chang {position: absolute; width:800mm; top: 195px; left: -1080px;z-index: 2;}
+		#poong {position: absolute; width:133mm; top: 1490px; left: 590px;z-index: 2;}
+		#pong {position: absolute; width:235mm; top: 1563px; left: 925px;z-index: 2;}
+		#mur {position: absolute; width:120mm; top: 1080px; left: 1310px;z-index: 2;}
+		#doc {position: absolute; width:113mm; top: 922px; left: 73px;z-index: 2;}
+		#go {position: absolute; width:208mm; top: 1493px; left: 61px;z-index: 2;}
+		#out {position: absolute; width:107mm; top: 2085px; left: 72px;z-index: 2;}
+		#in {position: absolute; width:204mm; top: 2083px; left: 508px;z-index: 2;}
+		#bang {position: absolute; width:240mm; top: 383px; left: 0px;z-index: 2;}
+		#bing {position: absolute; width:295mm; top: 800px; left: 650px;}
+		#issac {position: absolute; width:265mm; top: 2530px; left: 140px;z-index: 2;}
+		#reborn {position: absolute; width:265mm; top: 2770px; left: 130px;z-index: 2;}
+
+
+		#contents1 {position: relative;}
+		#contents1 h3{}
+		#contents1 p{}
+		 
+		#back3 #h1 {position:absolute;top:610px;left:345px;}
+		#back3 #p2 {position:absolute; top:1925px;left:70px;}
+		#back3 #y1 {position:absolute; font-size:1em; top:1080px;left:1125px;}
+		#back3 #y2 {position:absolute; font-size:1em; top:1825px;left:85px;}
+		#back3 #y3 {position:absolute; font-size:1em; top:1825px;left:530px;}
+		#back3 #y5 {position:absolute; font-size:1em; top:2825px;left:1480px;}
+
+		#back4 #h4 {position:absolute;top:1030px;left:180px;}
+		#back4 #h2 {position:absolute;top:1290px;left:255px;}
+		#back4 #p4 {position:absolute;top:1160px;left:590px;}
+		#back4 #y4 { position:absolute;font-size:1em; top:650px;left:1620px;}		
+		#back4 #y6 {position:absolute; font-size:1em; top:1880px;left:600px;}
+		#back4 #y7 {position:absolute; font-size:1em; top:1990px;left:1680px;}
+		#back4 #e { font-size:1.3em; top:2750px;}
+				
+		#back5 #h5 {position:absolute;top:190px;left:1230px;}
+		#back5 #q {position:absolute;top:320px;left:1350px;}
+		#back5 #w {position:absolute;top:790px;left:1480px;}
+		#contents1 #y8 { position:absolute;font-size:1em; top:1196px;left:495px;}
+		#contents1 #y9 { position:absolute;font-size:1em; top:1863px;left:825px;}
+		#contents1 #u1 {position:absolute; font-size:1em; top:2580px;left:80px;}
+		#contents1 #u2 {position:absolute; font-size:1em; top:2580px;left:510px;}
+		#back5 #d {position:absolute; top:2640px;left:510px;}
+		#back5 #ty {position:absolute; top:3500px;left:580px; z-index: 2;}
+		#back5 #ny {position:absolute; top:3620px;font-size:1.3em;left:670px;z-index: 2;}
+
+		#back6 #n {position:absolute;top:680px;left:125px;}
+		#back6 #m {position:absolute;top:1085px;left:220px;}
+		#back6 #k {position:absolute;top:1380px;left:310px;} 
+		#back6 #z {position:absolute;top:900px;left:755px;}
+		#back6 #u3 {position:absolute; font-size:1em; top:340px;left:20px;}
+		#back6 #u4 {position:absolute; font-size:1em; top:2190px;left:1160px;}
+		#back6 #i {position:absolute;top:3005px;left:1145px;}
+		#back6 #u5 {position:absolute; font-size:1em; top:3125px;left:170px;}
+		#back6 #u6 {position:absolute; font-size:1em; top:3370px;left:660px;}
+		#back6 #f {position:absolute; top:3970px;left:385px;}
+		#back6 #s {position:absolute; font-size:1.3em; top:4085px;left:660px;}
+
+		#contents1 #p3 {top:1500px;left:1000px;}
+		#contents1 #g {top:-350px;}
+		#contents1 #v { font-size:1.3em; top:-400px;}
+		#contents1 #l { font-size:1em; top:50px;left:70px; color:#09251d; }
+		#contents1 #l2 { font-size:1em; top:50px;left:130px; color:#09251d; }
